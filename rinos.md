@@ -4,4 +4,4 @@
 
 ##### The people from the interview felt bad so they let you, retake the interview!!!
 
-[Time Skip to interview day](alarm)
+[Time Skip to interview day](alarm.md)
