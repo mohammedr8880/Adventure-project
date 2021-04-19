@@ -4,4 +4,5 @@
 ---
 
 [Get off on the next stop & take the bus](bus-after-train.md)  
+  
 [PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY PRAY... to get there on time. this might work out.](stay-train.md)
