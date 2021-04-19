@@ -4,4 +4,4 @@
 
 [Turn off your alarm and wake up](wakeontime.md)
 
-[Turn off your alarm and Sleep in]()
+[Turn off your alarm and Sleep in](wakelate)
