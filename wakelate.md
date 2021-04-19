@@ -2,4 +2,6 @@
 
 ---
 
+[Get dressed in suit and tie](suit.md)
+
 [Run in Your Pajamas To The Interview](Pajamas.md)
