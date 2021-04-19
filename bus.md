@@ -4,4 +4,4 @@
 
 [Wait till the Rinos leave](rinos.md)
 
-[RUUNNNNNNN to your interview](run.md
+[RUUNNNNNNN to your interview](run.md)
