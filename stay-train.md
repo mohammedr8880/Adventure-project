@@ -6,4 +6,4 @@
 
 [![image-text](https://media.discordapp.net/attachments/582379163110080573/833776844372181022/noooooooooooooooooooooooooooooo.png?width=540&height=540)](https://youtu.be/BLeOzztpxeY)
 
-[retry](alarm.md)
+[retry](AlarmSub/alarm.md)

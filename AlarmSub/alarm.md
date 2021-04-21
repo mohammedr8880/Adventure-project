@@ -2,6 +2,6 @@
 
 ---
 
-[Turn off your alarm and wake up](wakeontime.md)
+[Turn off your alarm and wake up](../wakeontime.md)
 
-[Turn off your alarm and Sleep in](wakelate.md)
+[Turn off your alarm and Sleep in](../wakelate.md)

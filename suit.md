@@ -1,3 +1,3 @@
 ## You get the job!
 
-[Restart](alarm.md)
+[Restart](AlarmSub/alarm.md)

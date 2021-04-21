@@ -4,7 +4,7 @@
 
 ### You have a job interview today!
 
-[Start Here!](alarm.md)
+[Start Here!](AlarmSub/alarm.md)
 
 ---
 
