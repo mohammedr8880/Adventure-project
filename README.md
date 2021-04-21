@@ -6,15 +6,11 @@
 
 [Start Here!](AlarmSub/alarm.md)
 
-
-
-[Link to Mohammeds Profile](https://github.com/mohammedr8880)
-=======
-=======
 ---
 
-[Link to the Planning Page(We have modified some of the paths so they might not be the same)](https://docs.google.com/drawings/d/1B1sF_t3rT_csuTk3k8g1rjGqYT4B1mAKsOdGB5S5NjQ/edit)
+[Link to Mohammeds Profile](https://github.com/mohammedr8880)
 
+[Link to the Planning Page(We have modified some of the paths so they might not be the same)](https://docs.google.com/drawings/d/1B1sF_t3rT_csuTk3k8g1rjGqYT4B1mAKsOdGB5S5NjQ/edit)
 
 [Link to Mohammed's Profile](https://github.com/mohammedr8880)
 
