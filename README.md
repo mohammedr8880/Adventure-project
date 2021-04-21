@@ -6,6 +6,8 @@
 
 [Start Here!](alarm.md)
 
-[Link to Mohammeds Profile](https://github.com/mohammedr8880)
+[Link to Mohammed's Profile](https://github.com/mohammedr8880)
 
 [Link to Kyle's Profile](https://github.com/kyled4889)
+
+[Link to Fuad's Profile](https://github.com/fuadhoquef8414)
