@@ -11,3 +11,5 @@
 [Link to Kyle's Profile](https://github.com/kyled4889)
 
 [Link to Fuad's Profile](https://github.com/fuadhoquef8414)
+
+[Link to Eric's Profile](https://github.com/ericm4315)
